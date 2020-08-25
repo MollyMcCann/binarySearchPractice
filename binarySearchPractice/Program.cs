@@ -26,7 +26,7 @@ namespace binarySearchPractice
                 } 
             }
             return -1;
-        }
+        } 
         private static int BinarySearch (int[]array, int item)
         {
             //more efficient
